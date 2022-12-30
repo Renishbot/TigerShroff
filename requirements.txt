@@ -1,1 +1,1 @@
-https://github.com/Renishbot/pyrogram
+git+https://github.com/Renishbot/pyrogram
